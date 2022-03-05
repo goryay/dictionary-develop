@@ -19,6 +19,7 @@ public class XmlConfig {
         xmlFile = path;
     }
 
+    //Получение параметра по ключам
     public String getByKey(String key){
         try {
             File fXmlFile = new File(xmlFile);
