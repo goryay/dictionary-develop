@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<configs>
+    <config name="media_folder" value="images/" />
+</configs>
